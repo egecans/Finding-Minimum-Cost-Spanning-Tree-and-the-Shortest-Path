@@ -79,12 +79,7 @@ public class project3main {
 		
 		writer.close();
 
-		
-		
-		
-		// Ncities-ccounter+1 yapman laz�m o kadar var ��nk� 2. tarafa giden �ehir
+
 	}
 	
-	
-
 }
